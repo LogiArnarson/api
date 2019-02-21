@@ -1,4 +1,7 @@
-#some cool function here
 
-h <- 3
-h
+pollution <- read.csv("avgpm25.csv")
+head(pollution)
+tail(pollution)
+str(pollution)
+
+
